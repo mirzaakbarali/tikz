@@ -1,8 +1,3 @@
-> **Note**
->
-> This is not an official resource and is just the CC BY-SA 4.0 International\
-> text with Markdown formatting. If you're looking for the official resources, see: <https://creativecommons.org/licenses/by-sa/4.0/>
-
 # Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 Copyright (C) `2024 Mirza Akbar Ali`
