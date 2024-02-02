@@ -4,7 +4,7 @@
 ## Graphene/Hexagonal Unit Cell
 <img src="https://raw.githubusercontent.com/mirzaakbarali/tikz/main/png_figures/grapheneunitcell.png" alt="Graphene/Hexagonal Unit Cell PNG" style="border: 1px solid gray; width: 400px; display: block; margin: auto;">
 
-## Graphene/Hexagonal Unit Cell
+## Graphene/Hexagonal Nearest Neighbors
 <img src="https://raw.githubusercontent.com/mirzaakbarali/tikz/main/png_figures/graphenenearestneighbors.png" alt="Graphene/Hexagonal Nearest Neighbors PNG" style="border: 1px solid gray; width: 400px; display: block; margin: auto;">
 
 
