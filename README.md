@@ -8,6 +8,6 @@
 <img src="https://raw.githubusercontent.com/mirzaakbarali/tikz/main/png_figures/graphenenearestneighbors.png" alt="Graphene/Hexagonal Nearest Neighbors PNG" style="border: 1px solid gray; width: 400px; display: block; margin: auto;">
 
 ## Hydrogen Levels in (a): Bohr-Sommerfield Theory,  (b): Dirac Theory, and (c): Quantum Electrodynamics
-<img src="https://github.com/mirzaakbarali/tikz/blob/37b077ee18c9dd20c7e8916a6b6d9c94ba2411b7/png_figures/Hydrogen_Energy_Levels.png" alt="Graphene/Hexagonal Nearest Neighbors PNG" style="border: 1px solid gray; width: 400px; display: block; margin: auto;">
+<img src="https://raw.githubusercontent.com/mirzaakbarali/tikz/main/png_figures/Hydrogen_Energy_Levels.png" alt="Graphene/Hexagonal Nearest Neighbors PNG" style="border: 1px solid gray; width: 400px; display: block; margin: auto;">
 
 
